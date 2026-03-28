@@ -237,7 +237,7 @@ IMPACT SCORE
 
 <img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=21262d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10"/>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark_dimmed&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGharat&layout=compact&theme=github_dark_dimmed&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10"/>
 
 </div>
 
