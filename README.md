@@ -243,7 +243,7 @@ IMPACT SCORE
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&border=21262d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvGharat&theme=dark&background=0d1117&border=21262d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d" />
 
 </div>
 
