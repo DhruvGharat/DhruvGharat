@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+SCANS&color=58a6ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=DhruvGharat&label=PROFILE+SCANS&color=58a6ff&style=flat-square" />
 
 </div>
 
