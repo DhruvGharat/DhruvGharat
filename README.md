@@ -163,103 +163,10 @@ def philosophy(self) -> str:
 
 
 </td>
-</tr></table>
+</tr>
 
-</details>
 
-<br/>
 
-<!-- PROJECT 2 -->
-<details open>
-<summary><b>&nbsp;🌾&nbsp; Kisan Seva</b> &nbsp;·&nbsp; <code>Java</code> <code>MySQL</code> <code>Weather API</code> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/IMPACT-HIGH-3fb950?style=flat-square&labelColor=0d1117"/></summary>
-
-<br/>
-
-<table border="0"><tr>
-<td width="65%" valign="top">
-
-**What it does:**
-A farmer-first digital platform giving rural India what it deserves — real-time weather intelligence, a crop selling marketplace, and a one-stop aggregator for government agricultural schemes.
-
-**Why it matters:**
-> 60% of India's population depends on agriculture. This isn't just an app — it's a data pipeline connecting farmers to the information that directly determines their income and livelihood.
-
-**Core Features:**
-- 🌦️ Live weather data & crop advisory engine
-- 🛒 Peer-to-peer crop marketplace
-- 📋 Government scheme discovery portal
-- 💬 Multi-language support consideration
-
-</td>
-<td width="35%" valign="top" align="center">
-
-<br/>
-
-```
-PROJECT STATS
-─────────────────
-Type     : Platform
-Stack    : Java
-DB       : MySQL
-Domain   : AgriTech
-─────────────────
-Impact   : ████████
-Complexity: ███████░
-Innovation: ███████░
-─────────────────
-STATUS   : ✅ BUILT
-```
-
-</td>
-</tr></table>
-
-</details>
-
-<br/>
-
-<!-- PROJECT 3 -->
-<details open>
-<summary><b>&nbsp;🎨&nbsp; Bunai</b> &nbsp;·&nbsp; <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/IMPACT-HIGH-3fb950?style=flat-square&labelColor=0d1117"/></summary>
-
-<br/>
-
-<table border="0"><tr>
-<td width="65%" valign="top">
-
-**What it does:**
-A full MERN-stack marketplace platform built for India's local artists and artisans. Features a sophisticated multi-role system (Artist / Buyer / Admin), product listings, order management, and a cultural preservation mission baked into the codebase.
-
-**Why it matters:**
-> Traditional Indian crafts are disappearing because artisans lack digital presence. Bunai gives them a storefront, a community, and a revenue stream — code as a tool for cultural preservation.
-
-**Core Features:**
-- 🎭 Multi-role auth system (3 distinct user journeys)
-- 🛍️ Full product listing & order management
-- 💳 Payment & transaction tracking
-- 🏆 Featured artist discovery engine
-
-</td>
-<td width="35%" valign="top" align="center">
-
-<br/>
-
-```
-PROJECT STATS
-─────────────────
-Type     : Marketplace
-Stack    : MERN
-DB       : MongoDB
-Domain   : Culture
-─────────────────
-Impact   : ████████
-Complexity: ████████
-Full-Stack: ████████
-─────────────────
-STATUS   : 🔄 BUILDING
-```
-
-</td>
-</tr></table>
 
 </details>
 
