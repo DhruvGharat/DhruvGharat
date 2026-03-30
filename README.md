@@ -1,359 +1,503 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                    C I N E M A T I C   H E A D E R               -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0d1117,100:0a0d14&height=220&section=header&text=DHRUV%20GHARAT&fontColor=58a6ff&fontSize=52&fontAlignY=40&animation=fadeIn&desc=AI%20%2F%20ML%20%7C%20Data%20Science%20%7C%20Engineering%20Student&descColor=8b949e&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020c1b,25:0a1628,50:0d1f3c,75:0a1628,100:020c1b&height=260&section=header&text=DHRUV%20GHARAT&fontColor=58a6ff&fontSize=58&fontAlignY=45&animation=blinking&desc=┃%20AI%20%2F%20ML%20%20·%20%20Data%20Science%20%20·%20%20Engineering%20Student%20┃&descColor=4a90d9&descAlignY=64&descSize=15&stroke=1f6feb&strokeWidth=1" />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=%5B+BOOTING+PROFILE...+%5D;%3E+AI+%2F+ML+Enthusiast+%F0%9F%A4%96;%3E+Data+Science+Learner+%F0%9F%93%8A;%3E+Turning+Data+into+Decisions+%F0%9F%92%A1;%3E+Real-World+Problem+Solver+%F0%9F%8C%8D;%3E+Internship-Ready+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+<div align="center">
+
+<!-- Live typing — multi-line cinematic sequence -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=%E2%96%B6+%5B+SYSTEM+BOOT+%5D+...+Initializing+Dhruv.exe;%E2%96%B6+ROLE+%3A%3A+AI+%2F+ML+Enthusiast+%F0%9F%A4%96+%7C+Data+Scientist+in+Progress+%F0%9F%93%8A;%E2%96%B6+MISSION+%3A%3A+Turning+Raw+Data+into+Real-World+Impact;%E2%96%B6+LOCATION+%3A%3A+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+STATUS+%3A%3A+Internship+Ready+%F0%9F%9A%80;%E2%96%B6+LOADING+PORTFOLIO...+%5B+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5D+100%25)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<!-- Status badges -->
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-3fb950?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML%20%2F%20Data%20Science-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/YEAR-3rd%20Year%20IT%20Eng-bc8cff?style=for-the-badge&labelColor=0d1117"/>
+<div align="center">
+
+<!-- Holographic status pills -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20STATUS-Open%20to%20Internships-%233fb950?style=for-the-badge&labelColor=0d1117&color=3fb950"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%8F%20FOCUS-AI%20%2F%20ML%20%2F%20Data%20Science-%2358a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%8F%20YEAR-3rd%20Year%20IT%20Engineering-%23bc8cff?style=for-the-badge&labelColor=0d1117&color=6e40c9"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DhruvGharat&label=PROFILE+SCANS&color=58a6ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=DhruvGharat&label=%20PROFILE+SCANS&color=1f6feb&style=flat-square&labelColor=0d1117"/>
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    NEURAL NET GRAPHIC                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-```
-     ◉───────◉───────◉
-    /│\     /│\     /│\
-   ◉ │ ◉─◉ │ ◉─◉ │ ◉
-    \│/     \│/     \│/
-     ◉───────◉───────◉
-     │INPUT  │HIDDEN │OUTPUT
-     │LAYER  │LAYER  │LAYER
-     └───────┴───────┘
-     >> Dhruv's Neural Stack
-```
-
-</div>
+<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                  S I G N A T U R E   S E C T I O N               -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## `> whoami`
+<table border="0" align="center"><tr><td valign="top" width="55%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=99999&color=3FB95099&center=false&vCenter=true&width=420&lines=%2F%2F+PROFILE+INITIALIZED+%E2%80%94+v2026.1" alt="comment"/>
+
+## &nbsp;`class DhruvGharat:`
+
 ```python
-#!/usr/bin/env python3
-# ============================================================
-# DHRUV GHARAT · PROFILE INIT v2026.1
-# ============================================================
+def __init__(self):
+    self.name      = "Dhruv Gharat"
+    self.role      = "IT Engineer · AI/ML Track"
+    self.location  = "India 🇮🇳"
+    self.focus     = [
+        "Machine Learning",
+        "Data Science",
+        "Data Analytics",
+    ]
+    self.available = True  # hire me
 
-class DhruvGharat:
-    def __init__(self):
-        self.name       = "Dhruv Gharat"
-        self.role       = "3rd Year IT Engineering Student"
-        self.location   = "India 🇮🇳"
-        self.focus      = ["Artificial Intelligence", "Machine Learning", "Data Science"]
-        self.building   = ["NGO Platform", "AgriTech App", "Artists Marketplace"]
-        self.available  = True  # Open to AI/ML & Data Science Internships
-
-    def get_mindset(self) -> str:
-        return "Turning raw data into real-world impact, one model at a time."
-
-    def current_mission(self) -> list:
-        return [
-            "🤖  Mastering ML algorithms — supervised & unsupervised",
-            "📊  Building intuition for data through pandas & visualization",
-            "🧠  Exploring deep learning fundamentals (CNNs, NLP basics)",
-            "🔢  Strengthening SQL for analytical thinking",
-            "🌐  Shipping full-stack projects with real social impact",
-        ]
-
-dhruv = DhruvGharat()
-print(dhruv.get_mindset())
-# >> Turning raw data into real-world impact, one model at a time.
+def philosophy(self) -> str:
+    return (
+        "Data is the new oil — "
+        "I'm here to refine it."
+    )
 ```
 
-> *"The goal is to turn data into information, and information into insight."*
+<br/>
+
+> &nbsp;*"The goal is to turn data into information,*
+> *and information into insight."*
+> &nbsp;— Peter Drucker
+
+</td><td valign="top" width="45%" align="center">
+
+<br/>
+
+```
+      ·  ·  ·  NEURAL NETWORK  ·  ·  ·
+
+  INPUT         HIDDEN        OUTPUT
+  LAYER         LAYERS         LAYER
+
+  [ X₁ ]──┐           ┌──[ H₃ ]──┐
+           ├──[ H₁ ]──┤           ├──[ Ŷ ]
+  [ X₂ ]──┤           ├──[ H₄ ]──┘
+           └──[ H₂ ]──┤
+  [ X₃ ]──────────────┘
+
+  ▸ Optimizer  : Curiosity
+  ▸ Loss Fn    : Ignorance
+  ▸ Epochs     : ∞
+  ▸ Accuracy   : Always improving
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ML-Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Data-Driven-58a6ff?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117"/>
+
+</td></tr></table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> tech.stack --list-all`
-
-### 🧠 &nbsp; AI / ML / Data Science
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
-
-### 🗄️ &nbsp; Databases
-
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ED64"/>
-</p>
-
-### 🌐 &nbsp; Web / Full-Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3C873A"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330"/>
-</p>
-
-### ⚙️ &nbsp; Languages & Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  SKILL MATRIX (ASCII)                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> skills.matrix --visualize`
-```
-╔══════════════════════════════════════════════════════════════╗
-║              DHRUV'S SKILL PROFICIENCY MATRIX               ║
-╠══════════════════════════════════════════════════════════════╣
-║  Machine Learning     ████████████░░░░  75%  [ ADVANCING ]  ║
-║  Python / Data Sci    █████████████░░░  80%  [ STRONG    ]  ║
-║  Data Visualization   ████████████░░░░  70%  [ GROWING   ]  ║
-║  SQL / Analytics      █████████░░░░░░░  55%  [ BUILDING  ]  ║
-║  Deep Learning        █████░░░░░░░░░░░  30%  [ LEARNING  ]  ║
-║  MERN Stack           ████████░░░░░░░░  48%  [ IN PROG   ]  ║
-║  Java / DSA           ██████░░░░░░░░░░  35%  [ STARTING  ]  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> projects --featured --impact-first`
-
-<table>
-<tr>
-<td width="33%" valign="top">
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--               T E C H   A R S E N A L                            -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 🤝 NGO Donation Platform
-`Django` `Python` `MySQL`
+## 〔 TECH ARSENAL 〕
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=99999&color=484f58&center=true&vCenter=true&width=600&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+weapons+of+mass+creation+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt=""/>
 
 </div>
 
-A **transparency-first** donation tracking system. Real-time fund monitoring, admin transparency dashboards, and donor trust analytics — bridging the gap between people and NGOs.
+<br/>
+
+<div align="center">
+
+**`⬡ AI / MACHINE LEARNING / DATA SCIENCE`**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="44"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/Matplotlib-0C3B5E?style=for-the-badge&logo=python&logoColor=11B5CE"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1B2A3B?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Jupyter-1B1D1F?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
+
+<br/><br/>
+
+**`⬡ DATABASES`**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="44"/>
+
+<br/><br/>
+
+**`⬡ WEB / FULL-STACK`**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,html,css,js&theme=dark" height="44"/>
+
+<br/><br/>
+
+**`⬡ TOOLS & LANGUAGES`**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux&theme=dark" height="44"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--               S K I L L   M A T R I X                            -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 〔 SKILL MATRIX 〕
+
+</div>
+
 ```
-IMPACT SCORE
-├─ Social good: ████████ HIGH
-├─ Complexity:  ██████░░ MED+
-└─ Real users:  ✓ YES
+╔═══════════════════════════════════════════════════════════════════════╗
+║                  ◈  PROFICIENCY  RADAR  ◈                           ║
+╠══════════════════════════╦════════════════════════╦══════════════════╣
+║  SKILL                   ║  LEVEL                 ║  STATUS          ║
+╠══════════════════════════╬════════════════════════╬══════════════════╣
+║  Python / Data Science   ║  ████████████████░░░░  ║  ◉ STRONG        ║
+║  Machine Learning        ║  ███████████████░░░░░  ║  ◉ ADVANCING     ║
+║  Data Visualization      ║  ██████████████░░░░░░  ║  ◉ GROWING       ║
+║  SQL for Analytics       ║  ███████████░░░░░░░░░  ║  ◎ BUILDING      ║
+║  Full-Stack (MERN)       ║  ██████████░░░░░░░░░░  ║  ◎ IN PROGRESS   ║
+║  Deep Learning           ║  ██████░░░░░░░░░░░░░░  ║  ◌ EXPLORING     ║
+║  Java / DSA              ║  ███████░░░░░░░░░░░░░  ║  ◌ STARTING      ║
+╠══════════════════════════╩════════════════════════╩══════════════════╣
+║  ◉ PROFICIENT   ◎ INTERMEDIATE   ◌ BEGINNER   // All lines rising ↑  ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--               F E A T U R E D   P R O J E C T S                  -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 〔 FEATURED PROJECTS 〕
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=99999&color=484f58&center=true&vCenter=true&width=600&lines=%E2%94%80%E2%94%80%E2%94%80+building+solutions+that+actually+matter+%E2%94%80%E2%94%80%E2%94%80" alt=""/>
+
+</div>
+
+<br/>
+
+<!-- PROJECT 1 -->
+<details open>
+<summary><b>&nbsp;🤝&nbsp; NGO Donation Platform</b> &nbsp;·&nbsp; <code>Django</code> <code>Python</code> <code>MySQL</code> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/IMPACT-HIGH-3fb950?style=flat-square&labelColor=0d1117"/></summary>
+
+<br/>
+
+<table border="0"><tr>
+<td width="65%" valign="top">
+
+**What it does:**
+A full-stack transparency platform that bridges the trust gap between donors and NGOs. Features real-time donation tracking, fund utilization dashboards, and an admin transparency engine that shows exactly where every rupee goes.
+
+**Why it matters:**
+> In India, millions of potential donors hesitate because of opacity in charitable organizations. This platform uses data to build trust — making social giving a verified, transparent experience.
+
+**Core Features:**
+- 📊 Real-time donation analytics dashboard
+- 🔐 Admin transparency & fund allocation system
+- 📧 Automated donor update system
+- 📱 Responsive UI for all devices
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<br/>
+
+```
+PROJECT STATS
+─────────────────
+Type     : Web App
+Stack    : Django
+DB       : MySQL
+Theme    : Social
+─────────────────
+Impact   : ████████
+Complexity: ██████░░
+Reuse    : ████████
+─────────────────
+STATUS   : ✅ BUILT
 ```
 
 </td>
-<td width="33%" valign="top">
+</tr></table>
 
-<div align="center">
+</details>
 
-### 🌾 Kisan Seva
-`Java` `MySQL` `APIs`
+<br/>
 
-</div>
+<!-- PROJECT 2 -->
+<details open>
+<summary><b>&nbsp;🌾&nbsp; Kisan Seva</b> &nbsp;·&nbsp; <code>Java</code> <code>MySQL</code> <code>Weather API</code> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/IMPACT-HIGH-3fb950?style=flat-square&labelColor=0d1117"/></summary>
 
-Farmer-first platform with **real-time weather intelligence**, crop marketplace, and government scheme aggregator. Built for rural India where data access = livelihood.
+<br/>
+
+<table border="0"><tr>
+<td width="65%" valign="top">
+
+**What it does:**
+A farmer-first digital platform giving rural India what it deserves — real-time weather intelligence, a crop selling marketplace, and a one-stop aggregator for government agricultural schemes.
+
+**Why it matters:**
+> 60% of India's population depends on agriculture. This isn't just an app — it's a data pipeline connecting farmers to the information that directly determines their income and livelihood.
+
+**Core Features:**
+- 🌦️ Live weather data & crop advisory engine
+- 🛒 Peer-to-peer crop marketplace
+- 📋 Government scheme discovery portal
+- 💬 Multi-language support consideration
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<br/>
+
 ```
-IMPACT SCORE
-├─ Social good: ████████ HIGH
-├─ Complexity:  ███████░ HIGH
-└─ Domain:      AgriTech
+PROJECT STATS
+─────────────────
+Type     : Platform
+Stack    : Java
+DB       : MySQL
+Domain   : AgriTech
+─────────────────
+Impact   : ████████
+Complexity: ███████░
+Innovation: ███████░
+─────────────────
+STATUS   : ✅ BUILT
 ```
 
 </td>
-<td width="33%" valign="top">
+</tr></table>
 
-<div align="center">
+</details>
 
-### 🎨 Bunai
-`MERN` `React` `MongoDB`
+<br/>
 
-</div>
+<!-- PROJECT 3 -->
+<details open>
+<summary><b>&nbsp;🎨&nbsp; Bunai</b> &nbsp;·&nbsp; <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/IMPACT-HIGH-3fb950?style=flat-square&labelColor=0d1117"/></summary>
 
-Artist marketplace with **multi-role system** (Artist / Buyer / Admin). Enables independent creators to monetize handmade craft — preserving culture through code.
+<br/>
+
+<table border="0"><tr>
+<td width="65%" valign="top">
+
+**What it does:**
+A full MERN-stack marketplace platform built for India's local artists and artisans. Features a sophisticated multi-role system (Artist / Buyer / Admin), product listings, order management, and a cultural preservation mission baked into the codebase.
+
+**Why it matters:**
+> Traditional Indian crafts are disappearing because artisans lack digital presence. Bunai gives them a storefront, a community, and a revenue stream — code as a tool for cultural preservation.
+
+**Core Features:**
+- 🎭 Multi-role auth system (3 distinct user journeys)
+- 🛍️ Full product listing & order management
+- 💳 Payment & transaction tracking
+- 🏆 Featured artist discovery engine
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<br/>
+
 ```
-IMPACT SCORE
-├─ Social good: ███████░ HIGH
-├─ Complexity:  ████████ HIGH
-└─ Stack:       Full MERN
+PROJECT STATS
+─────────────────
+Type     : Marketplace
+Stack    : MERN
+DB       : MongoDB
+Domain   : Culture
+─────────────────
+Impact   : ████████
+Complexity: ████████
+Full-Stack: ████████
+─────────────────
+STATUS   : 🔄 BUILDING
 ```
 
 </td>
-</tr>
-</table>
+</tr></table>
+
+</details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> github.stats --theme dark`
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                  G I T H U B   S T A T S                         -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=21262d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10"/>
+## 〔 GITHUB VITALS 〕
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGharat&layout=compact&theme=github_dark_dimmed&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10"/>
+<br/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvGharat&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=1f2937&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&border_radius=12&ring_color=1f6feb&hide_border=false"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGharat&layout=compact&theme=github_dark_dimmed&border_color=1f2937&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=8"/>
 
-<div align="center">
+<br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvGharat&theme=dark&background=0d1117&border=21262d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d" />
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvGharat&theme=dark&background=0d1117&border=1f2937&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&stroke=1f2937&border_radius=12"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvGharat&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Dhruv's%20Contribution%20Neural%20Activity" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvGharat&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0d2137&hide_border=false&border_color=1f2937&radius=6&custom_title=%E2%97%88%20Neural%20Contribution%20Activity%20%E2%97%88"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CURRENTLY LEARNING                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--          C U R R E N T L Y   L E A R N I N G                     -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## `> learning.log --current`
+<div align="center">
+
+## 〔 LEARNING STACK · 2026 〕
+
+</div>
+
 ```yaml
-# dhruv_learning_stack.yaml
-# Last updated: 2026
+# ─────────────────────────────────────────────────────────
+#  dhruv_learning_manifest.yaml  |  synced: 2026
+# ─────────────────────────────────────────────────────────
 
 active_modules:
-  - name: "Machine Learning Algorithms"
-    topics: [linear_regression, decision_trees, clustering, SVMs]
-    status: IN_PROGRESS
 
-  - name: "Data Analysis Pipeline"
-    tools: [pandas, numpy, matplotlib, seaborn]
-    status: ADVANCING
+  - module: "Machine Learning Core"
+    covering: [LinearRegression, DecisionTrees, RandomForests,
+               KMeans, SVM, CrossValidation, FeatureEngineering]
+    resource: "Hands-on ML · Scikit-Learn · Kaggle"
+    status:   "🟢 IN PROGRESS — pushing commits weekly"
 
-  - name: "SQL for Analytics"
-    topics: [aggregations, window_functions, joins, CTEs]
-    status: BUILDING
+  - module: "Data Analysis Pipeline"
+    covering: [pandas, numpy, matplotlib, seaborn, EDA_techniques]
+    resource: "Real datasets · Colab notebooks"
+    status:   "🟢 STRONG — building daily"
 
-  - name: "Deep Learning Fundamentals"
-    topics: [neural_networks, CNNs, backprop_basics]
-    status: EXPLORING
+  - module: "SQL for Analytics"
+    covering: [JOINs, CTEs, WindowFunctions, SubQueries, IndexOptimization]
+    resource: "MySQL · Mode Analytics SQL Tutorial"
+    status:   "🟡 BUILDING — getting deeper"
 
-  - name: "MERN Stack Development"
-    topics: [React, Node, Express, MongoDB]
-    status: BUILDING
+  - module: "Deep Learning Fundamentals"
+    covering: [NeuralNetworks, Backpropagation, CNNs, Keras, TensorFlow]
+    resource: "DeepLearning.ai · Fast.ai"
+    status:   "🔵 EXPLORING — foundations first"
 
-upcoming:
-  - "NLP basics · Transformers introduction"
-  - "Data Science certification (Google / IBM)"
-  - "Kaggle competitions · real dataset practice"
+  - module: "Full-Stack MERN"
+    covering: [React_Hooks, REST_APIs, Express_Middleware, MongoDB_Atlas]
+    resource: "Bunai project (live)"
+    status:   "🟡 BUILDING — shipping features"
+
+on_deck:
+  - "NLP · Transformers · Hugging Face basics"
+  - "Power BI / Tableau for data storytelling"
+  - "Kaggle competitions — first medal target"
+  - "Google Data Analytics Certification"
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GOALS 2026                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> goals.2026 --execute`
-```
-┌──────────────────────────────────────────────────────────┐
-│                   MISSION TARGETS · 2026                 │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🎯  Land an AI/ML / Data Science Internship            │
-│  🧠  Master Scikit-Learn · Build end-to-end ML pipelines │
-│  📜  Earn Data Analysis Certification (Google / IBM)     │
-│  🤝  Contribute to open-source ML project               │
-│  🏆  Build 3+ portfolio-grade Data Science projects     │
-│  ⚔️   Solve 100+ DSA problems in Java                   │
-│  🌐  Start technical blog / project writeups            │
-│  🔗  Network actively in AI/ML community                │
-│                                                          │
-│  STATUS: [ ██████░░░░░░░░ ]  IN PROGRESS · 2026        │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> connect --open-to-all`
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                  M I S S I O N   2026                            -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Gharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruv-gharat-296b95280)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvgharat1313@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvGharat)
+## 〔 MISSION TARGETS · 2026 〕
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1500&color=3FB950&center=true&vCenter=true&width=600&lines=%3E+Open+to+AI%2FML+%26+Data+Science+internships...;%3E+Let's+build+something+that+matters.;%3E+Data+%2B+Code+%2B+Impact+%3D+%F0%9F%9A%80;%3E+Ping+me+%E2%80%94+I+respond+fast.)](https://git.io/typing-svg)
-
-<br/>
 ```
-📍 India  ·  🎓 IT Engineering, 3rd Year  ·  🚀 Internship-Ready 2026
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                                                                 │
+  │   ⬡  Land an AI/ML or Data Science Internship           [ ]    │
+  │   ⬡  Build & deploy an end-to-end ML pipeline           [ ]    │
+  │   ⬡  Earn Google / IBM Data Analytics Certification     [ ]    │
+  │   ⬡  Earn first Kaggle medal on a real dataset          [ ]    │
+  │   ⬡  Contribute meaningfully to open-source ML          [ ]    │
+  │   ⬡  Solve 100+ DSA problems (Java focus)               [ ]    │
+  │   ⬡  Launch technical blog / project write-ups          [ ]    │
+  │   ⬡  Build a network of 500+ in AI/ML community         [ ]    │
+  │                                                                 │
+  │   OVERALL  ▸  [░░░░░░░░░░░░░░░░░░░░]  0 / 8  UNLOCKED         │
+  │   ETA      ▸  December 2026                                     │
+  │   OPERATOR ▸  Dhruv Gharat                                      │
+  │                                                                 │
+  └─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                    C O N N E C T                                  -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 〔 CONNECT · COLLABORATE · BUILD 〕
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Gharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dhruv-gharat-296b95280)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-dhruvgharat1313%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dhruvgharat1313@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-DhruvGharat-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/DhruvGharat)
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=3FB950&center=true&vCenter=true&width=680&lines=%E2%96%B6+Open+to+AI%2FML+%26+Data+Science+internships...;%E2%96%B6+Let%27s+build+something+that+genuinely+matters.;%E2%96%B6+Data+%2B+Code+%2B+Curiosity+%3D+Real+World+Impact+%F0%9F%9A%80;%E2%96%B6+DM+me+on+LinkedIn+%E2%80%94+I+respond+within+24h.)](https://git.io/typing-svg)
+
+<br/>
+
+```
+  ┌────────────────────────────────────────────────────────────────┐
+  │  📍 Virar, Maharashtra, India  ·  🎓 IT Engineering, Year 3   │
+  │  🚀 Internship-Ready · AI/ML / Data Science Focus · 2026      │
+  └────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER ANIMATION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                    C I N E M A T I C   F O O T E R               -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1f3c,100:0d1117&height=130&section=footer&animation=twinkling&fontColor=58a6ff" />
-
-<sub><sup>
-⚡ Built with precision · Driven by data · Powered by curiosity ⚡<br/>
-<code>while (alive) { learn(); build(); improve(); }</code>
-</sup></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,30:0a1628,60:0d1f3c,100:020c1b&height=160&section=footer&animation=twinkling&text=while(alive)%20%7B%20learn()%3B%20build()%3B%20improve()%3B%20%7D&fontColor=1f6feb&fontSize=14&fontAlignY=65&desc=Dhruv%20Gharat%20%C2%B7%20AI%2FML%20%26%20Data%20Science%20%C2%B7%20India%20%C2%B7%202026&descColor=484f58&descSize=12&descAlignY=85"/>
 
 </div>
