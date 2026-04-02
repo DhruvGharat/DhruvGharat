@@ -227,12 +227,6 @@ def philosophy(self) -> str:
 
 <br/>
 
-```
-  ┌────────────────────────────────────────────────────────────────┐
-  │  📍 Virar, Maharashtra, India  ·  🎓 IT Engineering, Year 3   │
-  │  🚀 Internship-Ready · AI/ML / Data Science Focus · 2026      │
-  └────────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
