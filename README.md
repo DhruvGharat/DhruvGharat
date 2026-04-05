@@ -2,7 +2,7 @@
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!--                    C I N E M A T I C   H E A D E R               -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ --->
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020c1b,25:0a1628,50:0d1f3c,75:0a1628,100:020c1b&height=260&section=header&text=DHRUV%20GHARAT&fontColor=58a6ff&fontSize=58&fontAlignY=45&animation=blinking&desc=┃%20AI%20%2F%20ML%20%20·%20%20Data%20Science%20%20·%20%20Engineering%20Student%20┃&descColor=4a90d9&descAlignY=64&descSize=15&stroke=1f6feb&strokeWidth=1" />
 
