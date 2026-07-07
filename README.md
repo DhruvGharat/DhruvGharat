@@ -1,11 +1,6 @@
-# GitHub Profile README — Dhruv Gharat
-# Copy everything between the triple-backtick blocks below into your GitHub profile README.md
-# GitHub username: DhruvGharat
-# Go to: github.com/new → create a repo named exactly "DhruvGharat" → add README.md → paste this
 
----
 
-```markdown
+markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1b3e,60:0f2460,100:0a0f1e&height=280&section=header&text=Dhruv%20Gharat&fontColor=60a5fa&fontSize=62&fontAlignY=42&animation=fadeIn&desc=AI%20%2F%20ML%20·%20Data%20Science%20·%204th%20Year%20IT%20Engineering&descColor=93c5fd&descAlignY=62&descSize=16"/>
@@ -38,7 +33,7 @@
 
 ### &nbsp;`whoami`
 
-```python
+python
 class DhruvGharat:
     name       = "Dhruv Anil Gharat"
     location   = "Mumbai, Maharashtra 🇮🇳"
@@ -56,13 +51,13 @@ class DhruvGharat:
     experience = "Data Science Intern @ NeoSOFT"
     currently  = "Learning LangChain + GenAI"
     available  = True   # hire me
-```
+
 
 </td><td valign="top" width="48%" align="center">
 
 <br/>
 
-```
+
     M O D E L   S T A T U S
 
   Algorithm   : Random Forest
@@ -78,7 +73,7 @@ class DhruvGharat:
 
   optimizer   : Curiosity
   lr_schedule : learn every day
-```
+
 
 <br/>
 
