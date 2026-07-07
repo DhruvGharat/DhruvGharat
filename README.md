@@ -1,243 +1,240 @@
-<div align="center">  
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                    C I N E M A T I C   H E A D E R               -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ --->
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020c1b,25:0a1628,50:0d1f3c,75:0a1628,100:020c1b&height=260&section=header&text=DHRUV%20GHARAT&fontColor=58a6ff&fontSize=58&fontAlignY=45&animation=blinking&desc=┃%20AI%20%2F%20ML%20%20·%20%20Data%20Science%20%20·%20%20Engineering%20Student%20┃&descColor=4a90d9&descAlignY=64&descSize=15&stroke=1f6feb&strokeWidth=1" />
-
-</div>
-
-<div align="center">
-
-<!-- Live typing — multi-line cinematic sequence -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=%E2%96%B6+%5B+SYSTEM+BOOT+%5D+...+Initializing+Dhruv.exe;%E2%96%B6+ROLE+%3A%3A+AI+%2F+ML+Enthusiast+%F0%9F%A4%96+%7C+Data+Scientist+in+Progress+%F0%9F%93%8A;%E2%96%B6+MISSION+%3A%3A+Turning+Raw+Data+into+Real-World+Impact;%E2%96%B6+LOCATION+%3A%3A+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+STATUS+%3A%3A+Internship+Ready+%F0%9F%9A%80;%E2%96%B6+LOADING+PORTFOLIO...+%5B+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5D+100%25)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Holographic status pills -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20STATUS-Open%20to%20Internships-%233fb950?style=for-the-badge&labelColor=0d1117&color=3fb950"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%97%8F%20FOCUS-AI%20%2F%20ML%20%2F%20Data%20Science-%2358a6ff?style=for-the-badge&labelColor=0d1117&color=1f6feb"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%97%8F%20YEAR-3rd%20Year%20IT%20Engineering-%23bc8cff?style=for-the-badge&labelColor=0d1117&color=6e40c9"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=DhruvGharat&label=%20PROFILE+SCANS&color=1f6feb&style=flat-square&labelColor=0d1117"/>
-
-</div>
-
-<br/>
+# GitHub Profile README — Dhruv Gharat
+# Copy everything between the triple-backtick blocks below into your GitHub profile README.md
+# GitHub username: DhruvGharat
+# Go to: github.com/new → create a repo named exactly "DhruvGharat" → add README.md → paste this
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                  S I G N A T U R E   S E C T I O N               -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+```markdown
+<div align="center">
 
-<table border="0" align="center"><tr><td valign="top" width="55%">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1b3e,60:0f2460,100:0a0f1e&height=280&section=header&text=Dhruv%20Gharat&fontColor=60a5fa&fontSize=62&fontAlignY=42&animation=fadeIn&desc=AI%20%2F%20ML%20·%20Data%20Science%20·%204th%20Year%20IT%20Engineering&descColor=93c5fd&descAlignY=62&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=99999&color=3FB95099&center=false&vCenter=true&width=420&lines=%2F%2F+PROFILE+INITIALIZED+%E2%80%94+v2026.1" alt="comment"/>
+</div>
 
-## &nbsp;`class DhruvGharat:`
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&background=00000000&center=true&vCenter=true&width=720&lines=Building+end-to-end+ML+systems+that+actually+work+in+the+real+world.;Supervised+learning+·+Predictive+modeling+·+LLM+data+pipelines.;GPA+8.82+%2F+10.0+·+NeoSOFT+Technologies+intern.;Currently+deep-diving+into+Generative+AI+%26+LangChain.;Open+to+AI+%2F+ML+%26+Data+Science+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square&labelColor=0d1117&color=22c55e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Data%20Science-60a5fa?style=flat-square&labelColor=0d1117&color=3b82f6"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Year-4th%20Year%20B.E.%20IT-a78bfa?style=flat-square&labelColor=0d1117&color=7c3aed"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=DhruvGharat&label=profile+views&color=3b82f6&style=flat-square&labelColor=0d1117"/>
+
+</div>
+
+---
+
+<table border="0" align="center" cellpadding="0" cellspacing="0"><tr><td valign="top" width="52%">
+
+### &nbsp;`whoami`
 
 ```python
-def __init__(self):
-    self.name      = "Dhruv Gharat"
-    self.role      = "IT Engineer · AI/ML Track"
-    self.location  = "India 🇮🇳"
-    self.focus     = [
+class DhruvGharat:
+    name       = "Dhruv Anil Gharat"
+    location   = "Mumbai, Maharashtra 🇮🇳"
+    education  = "B.E. IT — Xavier Institute of Engineering"
+    gpa        = 8.82
+    year       = "4th Year (2023–2027)"
+
+    focus = [
         "Machine Learning",
         "Data Science",
-        "Data Analytics",
+        "Generative AI",
+        "LLM Pipelines",
     ]
-    self.available = True  # hire me
 
-def philosophy(self) -> str:
-    return (
-        "Data is the new oil — "
-        "I'm here to refine it."
-    )
+    experience = "Data Science Intern @ NeoSOFT"
+    currently  = "Learning LangChain + GenAI"
+    available  = True   # hire me
 ```
 
-<br/>
-
-> &nbsp;*"The goal is to turn data into information,*
-> *and information into insight."*
-> &nbsp;— Peter Drucker
-
-</td><td valign="top" width="45%" align="center">
+</td><td valign="top" width="48%" align="center">
 
 <br/>
 
 ```
-      ·  ·  ·  NEURAL NETWORK  ·  ·  ·
+    M O D E L   S T A T U S
 
-  INPUT         HIDDEN        OUTPUT
-  LAYER         LAYERS         LAYER
+  Algorithm   : Random Forest
+  Dataset     : 97,701 CGWB records
+  R²          : 0.78
+  Accuracy    : 99.87% (Rabi)
 
-  [ X₁ ]──┐           ┌──[ H₃ ]──┐
-           ├──[ H₁ ]──┤           ├──[ Ŷ ]
-  [ X₂ ]──┤           ├──[ H₄ ]──┘
-           └──[ H₂ ]──┤
-  [ X₃ ]──────────────┘
+  ┌─────────────────────────────┐
+  │  loss     ↘  0.0043        │
+  │  val_acc  ↗  0.9987        │
+  │  epochs   →  still going   │
+  └─────────────────────────────┘
 
-  ▸ Optimizer  : Curiosity
-  ▸ Loss Fn    : Ignorance
-  ▸ Epochs     : ∞
-  ▸ Accuracy   : Always improving
+  optimizer   : Curiosity
+  lr_schedule : learn every day
 ```
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/ML-Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Data-Driven-58a6ff?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=E70488&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117"/>
 
 </td></tr></table>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--               T E C H   A R S E N A L                            -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-## 〔 TECH ARSENAL 〕
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=99999&color=484f58&center=true&vCenter=true&width=600&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+weapons+of+mass+creation+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt=""/>
-
-</div>
+## &nbsp;Core Stack
 
 <br/>
 
-<div align="center">
-
-**`⬡ AI / MACHINE LEARNING / DATA SCIENCE`**
+**Machine Learning & Data Science**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="44"/>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-1B2A3B?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
 <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=E70488"/>
 <img src="https://img.shields.io/badge/Matplotlib-0C3B5E?style=for-the-badge&logo=python&logoColor=11B5CE"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-1B2A3B?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/Jupyter-1B1D1F?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
 <img src="https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
 
 <br/><br/>
 
-**`⬡ DATABASES`**
+**Backend & Databases**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="44"/>
+<img src="https://skillicons.dev/icons?i=flask,django,mysql&theme=dark" height="40"/>
 
 <br/><br/>
 
-**`⬡ WEB / FULL-STACK`**
+**Tools**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,html,css,js&theme=dark" height="44"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" height="40"/>
 
 <br/><br/>
 
-**`⬡ TOOLS & LANGUAGES`**
+**Currently Learning**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,linux&theme=dark" height="44"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Pipelines-1f6feb?style=for-the-badge&logo=huggingface&logoColor=white"/>
 
 </div>
 
-<br/>
+---
 
+<div align="center">
 
+## &nbsp;Selected Projects
+
+</div>
+
+<table border="0" align="center" cellpadding="12"><tr>
+
+<td valign="top" width="50%">
+
+**🌾 Tattva — ML Smart Farm Advisory**
+
+End-to-end ML system for Maharashtra farmers. GPS coordinates → optimal crop + soil NPK/pH + groundwater depth prediction. Zero manual input.
+
+```
+Kharif accuracy  →  99.31%
+Rabi accuracy    →  99.87%
+Zaid accuracy    →  99.82%
+Groundwater R²   →  0.78  (97,701 records)
+Models served    →  13 .pkl via Flask API
+```
+
+`Python` `Scikit-Learn` `Random Forest` `Flask` `Vite`
+
+[![Tattva](https://img.shields.io/badge/GitHub-Tattva--3.0-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/DhruvGharat/Tattva-3.0)
 
 </td>
-</tr>
 
+<td valign="top" width="50%">
 
+**🤝 Samarthan — NGO Management Platform**
 
+Centralized dashboard for NGOs to manage donations, volunteers, and expenses. Replaces manual registers and spreadsheets.
 
-</details>
+```
+Auth roles       →  Admin / NGO / User
+Features         →  Expense tracking,
+                    volunteer workflows,
+                    automated balance calc,
+                    Excel report export
+```
+
+`Django` `Python` `SQLite` `HTML` `CSS` `JS`
+
+[![Samarthan](https://img.shields.io/badge/GitHub-Samarthan-1f6feb?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/DhruvGharat)
+
+</td>
+
+</tr></table>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                  G I T H U B   S T A T S                         -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-## 〔 GITHUB VITALS 〕
+## &nbsp;GitHub Stats
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvGharat&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=1f2937&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&border_radius=12&ring_color=1f6feb&hide_border=false"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGharat&layout=compact&theme=github_dark_dimmed&border_color=1f2937&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DhruvGharat&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_color=1e3a5f&title_color=60a5fa&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117&border_radius=10&ring_color=3b82f6"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvGharat&layout=compact&theme=github_dark_dimmed&border_color=1e3a5f&title_color=60a5fa&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=6"/>
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvGharat&theme=dark&background=0d1117&border=1f2937&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&stroke=1f2937&border_radius=12"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvGharat&theme=dark&background=0d1117&border=1e3a5f&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&border_radius=10"/>
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvGharat&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0d2137&hide_border=false&border_color=1f2937&radius=6&custom_title=%E2%97%88%20Neural%20Contribution%20Activity%20%E2%97%88"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvGharat&bg_color=0d1117&color=60a5fa&line=3b82f6&point=60a5fa&area=true&area_color=0d2a5e&hide_border=false&border_color=1e3a5f&radius=6&custom_title=Contribution+Activity"/>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--          C U R R E N T L Y   L E A R N I N G                     -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                    C O N N E C T                                  -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 〔 CONNECT · COLLABORATE · BUILD 〕
+## &nbsp;Connect
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Gharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dhruv-gharat-296b95280)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-dhruvgharat1313%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dhruvgharat1313@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dhruvgharat06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dhruvgharat06@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-DhruvGharat-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/DhruvGharat)
 
-<br/><br/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=3FB950&center=true&vCenter=true&width=680&lines=%E2%96%B6+Open+to+AI%2FML+%26+Data+Science+internships...;%E2%96%B6+Let%27s+build+something+that+genuinely+matters.;%E2%96%B6+Data+%2B+Code+%2B+Curiosity+%3D+Real+World+Impact+%F0%9F%9A%80;%E2%96%B6+DM+me+on+LinkedIn+%E2%80%94+I+respond+within+24h.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=60A5FA&center=true&vCenter=true&width=640&lines=Open+to+AI+%2F+ML+%26+Data+Science+internships.;Let%27s+build+something+that+actually+matters.;DM+on+LinkedIn+—+I+respond+within+24h.)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                    C I N E M A T I C   F O O T E R               -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,30:0a1628,60:0d1f3c,100:020c1b&height=160&section=footer&animation=twinkling&text=while(alive)%20%7B%20learn()%3B%20build()%3B%20improve()%3B%20%7D&fontColor=1f6feb&fontSize=14&fontAlignY=65&desc=Dhruv%20Gharat%20%C2%B7%20AI%2FML%20%26%20Data%20Science%20%C2%B7%20India%20%C2%B7%202026&descColor=484f58&descSize=12&descAlignY=85"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=140&section=footer&text=while(alive)+%7B+learn()%3B+build()%3B+improve()%3B+%7D&fontColor=3b82f6&fontSize=13&fontAlignY=55&desc=Dhruv+Gharat+·+Mumbai+·+2026&descColor=475569&descSize=12&descAlignY=78"/>
 </div>
+```
