@@ -1,6 +1,6 @@
 
 
-markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1b3e,60:0f2460,100:0a0f1e&height=280&section=header&text=Dhruv%20Gharat&fontColor=60a5fa&fontSize=62&fontAlignY=42&animation=fadeIn&desc=AI%20%2F%20ML%20·%20Data%20Science%20·%204th%20Year%20IT%20Engineering&descColor=93c5fd&descAlignY=62&descSize=16"/>
